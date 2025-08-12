@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="yinz.png">
+<SubTexture name="yinz right0000" x="1260" y="0" width="633" height="760" frameX="-143" frameY="-234" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="yinz down0000" x="666" y="1554" width="626" height="607" frameX="-226" frameY="-417" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="yinz up0000" x="0" y="0" width="630" height="795" frameX="-101" frameY="-154" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="yinz up0001" x="630" y="0" width="630" height="780" frameX="-101" frameY="-163" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="yinz right0001" x="0" y="795" width="648" height="759" frameX="-143" frameY="-230" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="yinz idle0000" x="1893" y="0" width="664" height="722" frameX="-76" frameY="-202" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="yinz left0000" x="648" y="795" width="619" height="750" frameX="-152" frameY="-211" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="yinz left0001" x="1267" y="795" width="625" height="746" frameX="-153" frameY="-209" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="yinz down0001" x="1292" y="1554" width="622" height="607" frameX="-226" frameY="-417" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="yinz idle0001" x="1893" y="722" width="664" height="722" frameX="-76" frameY="-202" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="yinz idle0002" x="0" y="1554" width="666" height="722" frameX="-76" frameY="-222" frameWidth="1024" frameHeight="1024" />
+</TextureAtlas>

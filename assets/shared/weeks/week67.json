@@ -1,0 +1,27 @@
+{
+	"storyName": "India",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"bf",
+		""
+	],
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"rapcuh",
+			"yinz",
+			[
+				0,
+				255,
+				193
+			]
+		]
+	],
+	"weekName": "Week67",
+	"hiddenUntilUnlocked": false
+}

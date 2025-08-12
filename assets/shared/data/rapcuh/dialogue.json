@@ -1,0 +1,32 @@
+{
+	"dialogue": [
+		{
+			"expression": "confused",
+			"text": "yo put diddy oil on my shiiizz",
+			"boxState": "angry",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "shocked",
+			"text": "weird",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "pissed",
+			"text": "skibidi toliet is the bob king gang. ykyk 67 mangos street?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "shaun  bhandari not voly ball master",
+			"boxState": "angry",
+			"speed": 0.05,
+			"portrait": "bf"
+		}
+	]
+}

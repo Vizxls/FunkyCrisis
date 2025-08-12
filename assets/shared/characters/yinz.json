@@ -1,0 +1,55 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [434, 76],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "yinz left"
+		},
+		{
+			"loop": false,
+			"offsets": [297, 100],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "yinz down"
+		},
+		{
+			"loop": false,
+			"offsets": [318, 106],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "yinz up"
+		},
+		{
+			"loop": false,
+			"offsets": [204, 101],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "yinz right"
+		},
+		{
+			"loop": false,
+			"offsets": [331, 85],
+			"fps": 16,
+			"anim": "idle",
+			"indices": [],
+			"name": "yinz idle"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/yinz",
+	"position": [0, 0],
+	"healthicon": "yinz",
+	"flip_x": false,
+	"healthbar_colors": [255, 241, 231],
+	"camera_position": [-190, 200],
+	"sing_duration": 6.1,
+	"scale": 0.7,
+	"_editor_isPlayer": false
+}
