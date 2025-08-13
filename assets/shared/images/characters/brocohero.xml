@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="brocohero.png">
+	<SubTexture name="brocohero idle0000" x="1246" y="576" width="401" height="621" frameX="-253" frameY="-218" frameWidth="1000" frameHeight="1000"/>
+	<SubTexture name="brocohero idle0001" x="1680" y="0" width="401" height="602" frameX="-253" frameY="-237" frameWidth="1000" frameHeight="1000"/>
+	<SubTexture name="brocohero idle0002" x="2081" y="0" width="401" height="573" frameX="-253" frameY="-266" frameWidth="1000" frameHeight="1000"/>
+	<SubTexture name="brocohero idle0003" x="0" y="1244" width="423" height="556" frameX="-243" frameY="-277" frameWidth="1000" frameHeight="1000"/>
+	<SubTexture name="brocohero idle0004" x="0" y="1244" width="423" height="556" frameX="-243" frameY="-277" frameWidth="1000" frameHeight="1000"/>
+	<SubTexture name="brocohero idle0005" x="1680" y="602" width="401" height="573" frameX="-253" frameY="-266" frameWidth="1000" frameHeight="1000"/>
+	<SubTexture name="brocohero idle0006" x="1246" y="576" width="401" height="621" frameX="-253" frameY="-218" frameWidth="1000" frameHeight="1000"/>
+	<SubTexture name="brocohero idle0007" x="1246" y="576" width="401" height="621" frameX="-253" frameY="-218" frameWidth="1000" frameHeight="1000"/>
+	<SubTexture name="brocohero idle0008" x="1246" y="576" width="401" height="621" frameX="-253" frameY="-218" frameWidth="1000" frameHeight="1000"/>
+	<SubTexture name="brocohero left0000" x="0" y="678" width="448" height="566" frameX="-168" frameY="-274" frameWidth="1000" frameHeight="1000"/>
+	<SubTexture name="brocohero left0001" x="448" y="678" width="447" height="561" frameX="-168" frameY="-279" frameWidth="1000" frameHeight="1000"/>
+	<SubTexture name="brocohero down0000" x="423" y="1244" width="407" height="377" frameX="-273" frameY="-462" frameWidth="1000" frameHeight="1000"/>
+	<SubTexture name="brocohero down0001" x="830" y="1244" width="407" height="341" frameX="-273" frameY="-498" frameWidth="1000" frameHeight="1000"/>
+	<SubTexture name="brocohero up0000" x="0" y="0" width="401" height="678" frameX="-260" frameY="-161" frameWidth="1000" frameHeight="1000"/>
+	<SubTexture name="brocohero up0001" x="401" y="0" width="401" height="657" frameX="-260" frameY="-182" frameWidth="1000" frameHeight="1000"/>
+	<SubTexture name="brocohero right0000" x="802" y="0" width="444" height="589" frameX="-261" frameY="-246" frameWidth="1000" frameHeight="1000"/>
+	<SubTexture name="brocohero right0001" x="1246" y="0" width="434" height="576" frameX="-271" frameY="-259" frameWidth="1000" frameHeight="1000"/>
+</TextureAtlas>
