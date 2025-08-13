@@ -1,0 +1,55 @@
+{
+	"animations": [
+		{
+			"offsets": [288, 71],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "brocohero left",
+			"indices": []
+		},
+		{
+			"offsets": [271, 66],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "brocohero down",
+			"indices": []
+		},
+		{
+			"offsets": [277, 64],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "brocohero up",
+			"indices": []
+		},
+		{
+			"offsets": [172, 57],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "brocohero right",
+			"indices": []
+		},
+		{
+			"offsets": [278, 63],
+			"loop": false,
+			"anim": "idle",
+			"fps": 16,
+			"name": "brocohero idle",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/brocohero",
+	"position": [0, 0],
+	"healthicon": "brocohero",
+	"flip_x": false,
+	"healthbar_colors": [0, 95, 24],
+	"camera_position": [-240, 110],
+	"sing_duration": 6.1,
+	"scale": 0.9,
+	"_editor_isPlayer": false
+}
