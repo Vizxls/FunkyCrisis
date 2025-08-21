@@ -1,7 +1,7 @@
 Future
 Chip
-Directional
 Erectus
-Omegus
-Present
 Ringly
+Omegus
+Directional
+Present
